@@ -63,6 +63,7 @@ const Bar = styled.div`
         return '4px';
       }
     }};
+    transition: width 0.4s cubic-bezier(0.86, -0.08, 0.21, 1.39);
   }
 `;
 
