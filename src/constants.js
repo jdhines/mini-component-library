@@ -4,7 +4,7 @@ export const COLORS = {
   gray300: 'hsl(0deg 0% 75%)',
   gray500: 'hsl(0deg 0% 50%)',
   gray700: 'hsl(0deg 0% 40%)',
-  black: 'hsl(0deg 0% 0%)',
+  black: 'hsl(0deg 10% 10%)',
   transparentGray15: 'hsl(0deg 0% 50% / 0.15)',
   transparentGray35: 'hsl(0deg 0% 50% / 0.35)',
 };
